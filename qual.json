@@ -1,0 +1,51 @@
+{
+  "qualificationTypes": [
+    {
+      "id": "294a8bd4-c6c7-43a6-99cf-9b08dd7ce310",
+      "name": "Licenses and Permits"
+    }, {
+      "id": "79bbadfe-0483-4e9c-8cf2-dd02654c92ff",
+      "name": "Inductions"
+    }, {
+      "id": "c84f4c4e-a9c1-499a-8c1b-7f63d100a644",
+      "name": "Short Course"
+    }, {
+      "id": "21baf5e0-8503-4092-87eb-17b5e2c30320",
+      "name": "Apprenticeship"
+    }, {
+      "id": "e3dcf8d1-7fe8-4764-844f-422d6846c8ed",
+      "name": "Certificate"
+    }, {
+      "id": "419a6e06-36e2-4628-b678-0ee7a31a4d23",
+      "name": "Diploma"
+    }, {
+      "id": "37853f9c-c714-4d29-b0a8-d40194bf3f96",
+      "name": "Degree"
+    }
+  ],
+  "qualificationIndustries": [
+    {
+      "name": "Accounting",
+      "id": "c5594f5f-7f1c-462f-9fbe-852c396150a6"
+    }, {
+      "name": "Construction",
+      "id": "6a28df92-0125-4286-91aa-1ea47eab5aa6"
+    }, {
+      "name": "Hospitality and Tourism",
+      "id": "4ea2b22a-d405-4695-b664-fc8f94ac0a98"
+    }, {
+      "name": "Information and Communication Technology",
+      "id": "800f4870-419a-4839-b4f7-73eccb5eb1e8"
+    }, {
+      "name": "Mining and Resources",
+      "id": "8ca4a85b-9c14-4e0b-920e-9ea7defac4b1"
+    }, {
+      "name": "Science and Technology",
+      "id": "c9b25eec-3a48-44d4-b5e1-c18d8819ef59"
+    }, {
+      "name": "Sales",
+      "id": "7d1378e4-6b38-4257-b12a-02d09d0f1101"
+    }
+  ],
+  "qualifications": []
+}
